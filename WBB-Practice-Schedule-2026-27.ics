@@ -1,0 +1,464 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//William Byrd Baseball//WBB Practice Schedule 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:William Byrd Baseball offseason practices, Nov 30, 2026 throu
+ gh Feb 19, 2027. December: Mon/Wed/Thu. Starting Jan 6, 2027: Mon/Wed/Fri,
+  4:00-6:00 PM ET at the Field and Indoor Facility. Dates follow the RCPS 2
+ 026-27 academic calendar (winter break, the Jan 4 teacher workday, MLK Day
+ , and Feb 15 no-school day excluded).
+X-WR-CALNAME:WBB Practice
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261130T160000
+DTEND;TZID=America/New_York:20261130T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-11-30@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261202T160000
+DTEND;TZID=America/New_York:20261202T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-02@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261203T160000
+DTEND;TZID=America/New_York:20261203T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-03@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261207T160000
+DTEND;TZID=America/New_York:20261207T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-07@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261209T160000
+DTEND;TZID=America/New_York:20261209T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-09@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261210T160000
+DTEND;TZID=America/New_York:20261210T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-10@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261214T160000
+DTEND;TZID=America/New_York:20261214T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-14@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261216T160000
+DTEND;TZID=America/New_York:20261216T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-16@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20261217T160000
+DTEND;TZID=America/New_York:20261217T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2026-12-17@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nDecember schedule: Mon/Wed/Thu. Last practice before winter break.
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270106T160000
+DTEND;TZID=America/New_York:20270106T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-06@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nFirst practice after winter break (Mon/Wed/Fri schedule).
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270108T160000
+DTEND;TZID=America/New_York:20270108T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-08@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270111T160000
+DTEND;TZID=America/New_York:20270111T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-11@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270113T160000
+DTEND;TZID=America/New_York:20270113T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-13@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270115T160000
+DTEND;TZID=America/New_York:20270115T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-15@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270120T160000
+DTEND;TZID=America/New_York:20270120T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-20@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270122T160000
+DTEND;TZID=America/New_York:20270122T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-22@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270125T160000
+DTEND;TZID=America/New_York:20270125T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-25@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270127T160000
+DTEND;TZID=America/New_York:20270127T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-27@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270129T160000
+DTEND;TZID=America/New_York:20270129T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-01-29@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270201T160000
+DTEND;TZID=America/New_York:20270201T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-01@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270203T160000
+DTEND;TZID=America/New_York:20270203T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-03@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270205T160000
+DTEND;TZID=America/New_York:20270205T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-05@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270208T160000
+DTEND;TZID=America/New_York:20270208T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-08@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270210T160000
+DTEND;TZID=America/New_York:20270210T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-10@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270212T160000
+DTEND;TZID=America/New_York:20270212T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-12@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270217T160000
+DTEND;TZID=America/New_York:20270217T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-17@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBB Practice
+DTSTART;TZID=America/New_York:20270219T160000
+DTEND;TZID=America/New_York:20270219T180000
+DTSTAMP:20261125T141028Z
+UID:wbb-practice-2027-02-19@william-byrd-baseball
+CATEGORIES:PRACTICE
+DESCRIPTION:William Byrd Baseball practice.\nBe dressed and ready at 4:00 
+ PM ET. Practice ends at 6:00 PM ET.\nLocation: William Byrd High School 
+ — Field and Indoor Facility\, 2902 Washington Avenue\, Vinton\, VA 24179
+ \nMon/Wed/Fri schedule. Last offseason practice before VHSL first practice
+  / tryouts on Mon Feb 22\, 2027.
+LOCATION:William Byrd High School — Field and Indoor Facility\, 2902 Was
+ hington Avenue\, Vinton\, VA 24179
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
